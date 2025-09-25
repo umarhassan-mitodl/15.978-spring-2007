@@ -4,6 +4,8 @@ description: Lecture presentation on the Sloan Leadership Model.
 file: /courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/1d684f7275fb278de8d3e875da56e3ad_lec2.pdf
 file_size: 45843
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
